@@ -1,0 +1,2 @@
+# changjiang_power_factor_strategy
+长江电力(600900)多因子量化择时项目，仅存放Streamlit可视化看板dashboard.py与项目依赖requirements.txt，用于课程设计答辩演示。
